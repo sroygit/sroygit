@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about automation hardware for manufacturing lines.
 - 📫 How to reach me: https://www.linkedin.com/in/saurav-roy-63757b1a6/
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: Launched a student rocket in a commercial spaceport.
+- ⚡ Fun fact: Launched a student rocket in a commercial spaceport
 -->
 
 
