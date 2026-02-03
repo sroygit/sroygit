@@ -1,4 +1,4 @@
-# Hello world, I am Saurav Roy!
+# Hi, I am a CS student at University of British Columbia with deep interests in all things Software Engineering, ML and Computational Optimization. 
 
 
 <!--
