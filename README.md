@@ -1,5 +1,5 @@
 # Hi, I am Saurav
-I study CS at the University of British Columbia with deep interests in all things Software Engineering, ML and Computational Optimization. 
+I study CS at the University of British Columbia with deep interests in all things Software Engineering, ML, AI Agents and Computational Optimization. 
 
 
 <!--
